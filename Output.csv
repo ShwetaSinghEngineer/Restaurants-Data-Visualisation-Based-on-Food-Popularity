@@ -1,0 +1,150 @@
+row,url,address,name,latitude,longitude,food
+0,https://www.zomato.com/indore/cafe-bake-well-south-tukoganj,"2-A, Hotel Crown Palace, Kanchan Bagh, Near Geeta Bhawan Square, South Tukoganj, Indore",Cafe Bake Well,0,0,"Burgers,Sandwich,Tea,Chole Bhature,Chocolava,Hot Coffee,Brownie"
+1,https://www.zomato.com/indore/new-egg-zone-hig-lig,"203 D, Swan Bag Colony, Near Red Mapple Bakery, Indore, HIG-LIG, Indore",New Egg Zone,0,0,Prompt Service
+2,https://www.zomato.com/indore/royal-sandwich-hig-lig,"Shop 143, Anoop Nagar, HIG-LIG, Indore",Royal Sandwich,22.73824,75.88327,"Burgers,Cold Coffee,Noodle,Butter Maggi,Cheese Sandwich"
+3,https://www.zomato.com/indore/urban-desi-bistro-new-palasia,"Floor 28, Upper Ground Floor, One Centre, Palasiahana, Opposite 56 ShopIndore, New Palasia, Indore",Urban Desi Bistro,22.725455,75.894875,"Butter Chicken,Dal Makhani,Rolls,Afghani Momos,Tandoori Momos,Mutton Roganjosh,Soya Chaap"
+4,https://www.zomato.com/indore/lig-maggi-pasta-old-palasia,"108, Ashirwad Complex, Kanadiya Road, Old Palasia, Indore",LIG Maggi & Pasta,22.7211,75.89966,
+5,https://www.zomato.com/food-4-foodie-1-food-truck,"A5, Radhika Kunj, Near LIG Link Road, HIG-LIG, Indore",Food 4 Foodie,22.73467,75.88841,"Butter Chicken,Paratha,Sandwich,Dal Makhani"
+6,https://www.zomato.com/indore/oye24-hig-lig,"Plot 134, Opposite Water Tank, Malwa Mill Square, Anaj Mandir, Scheme 91, Indore",Oye24,22.748346,75.922089,"Poha,Chilli Paneer,Rajma Chawal,Biryani,Khichda,Hot Dog,Rajma Rice"
+7,https://www.zomato.com/indore/dilli-darbar-family-restaurant-old-palasia,"1, Manorama Ganj, Palasia Square, Old Palasia, Indore",Dilli Darbar Family Restaurant,40.71973,-111.83444,"Tandoori Chicken,Chicken Malai Tikka,Butter Chicken,Chilli Chicken"
+8,https://www.zomato.com/indore/24-hours-bakery-shop-vijay-nagar,"EC-4, Scheme 94, Mahalaxmi Nagar, Near Bombay Hospital, Vijay Nagar, Indore",24 Hours Bakery Shop,0,0,
+9,https://www.zomato.com/indore/behrouz-biryani-old-palasia,"UG 8, Amar Darshan Building, Khajrana Main Road, Saket Square, Near Saket Pan Corner, Old Palasia, Indore",Behrouz Biryani,22.725482,75.894861,"Chicken Biryani,Paneer Biryani,Dum Biryani,Mint Raita,Chicken Tikka,Bhuna Chicken,Saffron Rice"
+10,https://www.zomato.com/indore/atul-sandwich-and-cafe-old-palasia,"34 & 35, Lower Ground Floor, Navneet Plaza, Old Palasia, Indore",Atul Sandwich And Cafe,43.591422,3.355331,"Maggi,Pizza Sandwich,White Sauce Pasta,Chips,Poha"
+11,https://www.zomato.com/indore/sagar-gaire-2-new-palasia,"Shop No.1, NM Tower, Chappan Dukan, New Palasia, Indore",Sagar Gaire,22.727483,75.894252,"Sandwich,Biryani,Pasta,Chole Kulche,Butter Paneer,Panneer Butter Masala,Dal Makhani"
+12,https://www.zomato.com/indore/singh-restaurant-vijay-nagar,"Plot 1, Scheme 78, Part 2, Opposite Prestige Collage, Vijay Nagar, Indore",Singh Restaurant,22.752373,75.891541,"Lassi,Tandoori Roti"
+13,https://www.zomato.com/indore/cafe-yolo-vijay-nagar,"65, Scheme 78-II, Opposite Prestige College, Vijay Nagar, Indore",Cafe Yolo,22.752373,75.891541,"Sandwich,Coffee,Pizza,Pasta,Mocktails,Mojito,Kit Kat Shake"
+14,https://www.zomato.com/indore/shree-gurukripa-vijay-nagar,"Kushabhau Thakre Marg, Opposite Bombay Hospital, Vijay Nagar, Indore",Shree Gurukripa,22.75242,75.88789,"Veg Lollipop,Crispy Corn,Kadhai Paneer,Butter Naan,Roti,Panneer Butter Masala,Jeera Rice"
+15,https://www.zomato.com/indore/laxmi-narayan-doodhwala-old-palasia,"G-10, The Mark Building, Anand Bazar Square, Old Palasia, Indore",Laxmi Narayan Doodhwala,40.71973,-111.83444,"Rabri,Gulab Jamun,Malpua,Halwa,Masala Doodh,Lassi,Jalebi"
+16,https://www.zomato.com/indore/via-indore-new-palasia,"Lower Ground 5, Vidhyapati, Race Course Road, New Palasia, Indore",Via Indore,30.46522,-91.08645,"Thali,Khichda,Crispy Corn"
+17,https://www.zomato.com/indore/galliyara-restaurant-khajrana,"Scheme 94, Plot ED 143, Sector D, Ring Road, Vijay Nagar, Indore",Galliyara Restaurant,-19.338441,146.608232,"Tandoori Chicken,Biryani"
+18,https://www.zomato.com/indore/chakhna-cafe-old-palasia,"Shekhar Central, Old Palasia, Indore",Chakhna Cafe,17.47609,78.48147,"Vegetable Biryani,Strawberry Shake,Crispy Corn,Cheese Chilli Toast,Tea,Chilli Paneer,Aloo Paratha"
+19,https://www.zomato.com/indore/rolls-club-vijay-nagar,"14, Lower Ground, Royal Platinum Building, Opposite Prestige College, Vijay Nagar, Indore",Roll's Club,22.757818,75.906595,
+20,https://www.zomato.com/indore/indori-zaika-restaurant-new-palasia,"Shop 3, 589, Swarnabagh Colony, New Palasia, Indore",Indori Zaika Restaurant,40.71973,-111.83444,
+21,https://www.zomato.com/indore/tgf-restro-treat-gonna-fun-vijay-nagar,"88, Scheme 78/2, Vijay Nagar, Indore",TGF Restro - Treat Gonna Fun,28.70855,77.09917,
+22,https://www.zomato.com/indore/icy-spicy-old-palasia,"Tilak Nagar, Near Krishna Public School, Old Palasia, Indore",Icy Spicy,28.65895,77.28322,
+23,https://www.zomato.com/indore/mitti-organic-fresh-desi-old-palasia,"L.G 9 & 10, Captain C S Naidu Arcade, Old Palasia, Indore",Mitti - Organic. Fresh. Desi.,40.71973,-111.83444,"Pav Bhaji,Tea,Chai,Crispy Corn,Paratha,Pasta,Chole Kulche"
+24,https://www.zomato.com/indore/hitchky-new-palasia,"Ground Floor 1, 19/4, Business Bay, Opposite Mangilal Dudhwala, New Palasia, Indore",Hitchky,22.728167,75.894901,Butter Chicken
+25,https://www.zomato.com/indore/k2h-geeta-bhavan,"Geeta Nagar, Geeta Bhavan, Indore",K2H,22.71857,75.89189,Masala Maggi
+26,https://www.zomato.com/indore/dawar-restaurant-new-palasia,"593, M.G.Road, New Palasia, Indore",Dawar Restaurant,32.85739,-94.94358,
+27,https://www.zomato.com/indore/tinkus-old-palasia,"Anand Bazar Road, Bima Nagar, Old Palasia, Indore",Tinku's,22.72635,75.89434,Cold Coffee
+28,https://www.zomato.com/indore/make-my-sandwich-vijay-nagar,"A - 21&22, Rajat Jayanti Complex, Vijay Nagar, Indore",Make My Sandwich,18.45305,73.80922,"Rolls,Chicken Sandwich,Kathi Roll,Cheese Sandwich"
+29,https://www.zomato.com/indore/sourabh-sandwich-hig-lig,"8/4, Pardeshipura, Near Hanuman Mandir, HIG-LIG, Indore",Sourabh Sandwich,22.76507,75.88901,
+30,https://www.zomato.com/indore/any-time-cafe-vijay-nagar,"GG-44, Scheme 54, Vijay Nagar, Indore",Any Time Cafe,22.76838,75.8925,
+31,https://www.zomato.com/indore/singh-sahab-old-palasia,"LG 1, 5/2, Navneet Tower, Old Palasia, Indore",Singh Sahab,40.71973,-111.83444,"Biryani,Chicken Tikka,Tandoori Chicken,Butter Chicken,Fish Tikka,Murgh Malai"
+32,https://www.zomato.com/indore/om-sai-ram-vijay-nagar,"8/1, Malviya Nagar, Near C21 Mall, Vijay Nagar, Indore",Om Sai Ram,22.76828,75.89402,"Thali,Dal Tadka"
+33,https://www.zomato.com/indore/biggies-burger-n-more-vijay-nagar,"Shop G-2, Plot A-1, Mangal City, Scheme 54, PU 4, Vijay Nagar, Indore",Biggies Burger 'n' More,40.71973,-111.83444,"Burgers,Choco Brownie Shake,Mocktails,Tandoori Fries,Crunchy Burger,Fried Cheese,American Cheese Burger"
+34,https://www.zomato.com/indore/shri-kripa-restaurant-hig-lig,"4, Patnipura Square, HIG-LIG, Indore",Shri Kripa Restaurant,22.73616,75.87709,
+35,https://www.zomato.com/indore/faasos-vijay-nagar,"G-24, Mangal City Mall, A.B. Road, Vijay Nagar, Indore",Faasos,40.71973,-111.83444,"Chicken Biryani,Veggie Wrap,Rajma,Dal Makhani"
+36,https://www.zomato.com/indore/annkut-rasoi-vijay-nagar,"301, FH- 400, Scheme 54, Vijay Nagar, Indore",Annkut Rasoi,22.76838,75.8925,"Mutton Bhuna,Rumali Roti,Hyderabadi Chicken Biryani,Butter Naan,Palak Paneer"
+37,https://www.zomato.com/indore/12-am-hotel-somdeep-palace-vijay-nagar,"Hotel Somdeep Palace, MR 10, Vijay Nagar, Indore",12 AM - Hotel Somdeep Palace,22.75998,75.8863,"Butter Chicken,Chicken Biryani,Butter Naan"
+38,https://www.zomato.com/indore/spicy-family-restaurant-vijay-nagar,"LG 14, Royal Platinum Building, Opposite Prestige College, Vijay Nagar, Indore",Spicy Family Restaurant,0,0,"Roasted Chicken,Chicken Noodle"
+39,https://www.zomato.com/indore/royal-pizza-canter-sarafa-bazaar,"Shop 74, Chota Sarafa, Sarafa Bazaar, Indore",Royal Pizza Canter,22.7174,75.85128,
+40,https://www.zomato.com/indore/sandwich-wali-geeta-bhavan,"G 03, 22A, Tirupati Business Center, South Tukoganj, Geeta Bhavan, Indore",Sandwich Wali,22.705243,75.864121,"Sandwich,Maggi,Tea"
+41,https://www.zomato.com/indore/chinese-rolls-and-paratha-house-old-palasia,"144, Mahaveer Nagar, Old Palasia, Indore",Chinese Rolls And Paratha House,22.69431,75.83254,
+42,https://www.zomato.com/indore/99-rotiwala-1-hig-lig,"4, Radhika Kunj, Colony, Ring Road, HIG-LIG, Indore",99 Rotiwala,22.68333,75.87065,
+43,https://www.zomato.com/indore/tarang-the-tripti-vijay-nagar,"The Tripti Hotel,106, Scheme 78, Part 2, Vijay Nagar, Indore",Tarang- The Tripti,35.79992,-86.40332,Prompt Service
+44,https://www.zomato.com/indore/chicken-hub-geeta-bhavan,"Shop B 2, Geeta Bhavan, Indore",Chicken Hub,22.71918,75.88884,
+45,https://www.zomato.com/indore/daulat-sev-bhandar-hig-lig,"748/8, Nanda Nagar Main Road HIG-LIG, Opposite St. Joseph School, Indore",Daulat Sev Bhandar,40.71973,-111.83444,
+46,https://www.zomato.com/indore/the-samosa-state-old-palasia,"Lower Ground 14, Navneet Plaza, Old Palasia, Indore",The Samosa State,40.71973,-111.83444,"Chocolate Samosa,Pizza Samosa,Punjabi Samosa"
+47,https://www.zomato.com/indore/chai-kaapi-old-palasia,"Mehra Bhawan, Patrakar Square, Saket, Old Palasia, Indore",Chai Kaapi,18.994416,73.27293,"Tea,Coffee,Sandwich,Burgers,Pasta,Kadak Chai,Brownie"
+48,https://www.zomato.com/indore/american-bawarchi-vijay-nagar,"MR 9 Road, Anil Nagar, Vijay Nagar, Indore",American Bawarchi,22.76007,75.88631,"Rice Bowl,Naan Pizza"
+49,https://www.zomato.com/indore/the-kitchen-company-vijay-nagar,"Plot 58, PU 4, Near C21 Mall, AB Road, Vijay Nagar, Indore",The Kitchen Company,-10.92672,-37.116701,"Shawarma,Paneer Tikka"
+50,https://www.zomato.com/indore/k2h-cafe-and-restaurant-geeta-bhavan,"Geeta Nagar, Geeta Bhavan, Indore",K2H Cafe and Restaurant,22.718571,75.891891,
+51,https://www.zomato.com/indore/hugs-with-mugs-geeta-bhavan,"B-7, Alankar Point, Geeta Bhawan Square, Geeta Bhavan, Indore",Hugs With Mugs,22.71885,75.88808,
+52,https://www.zomato.com/indore/o2-cafe-de-la-ville-new-palasia,"23/ 2C, New Palasia, Indore",O2 Cafe De La Ville,28.5205,77.25891,"Coffee,Pizza,Mocktails,Noodle,Brownie,White Sauce Pasta,Nachos"
+53,https://www.zomato.com/indore/mr-egg-king-hig-lig,"14, Gurunagar, Behind Bus Depo, HIG-LIG, Indore",Mr. Egg King,0,0,"Egg Curry,Sandwich,Paratha,Egg Biryani,Egg Thali"
+54,https://www.zomato.com/indore/34-chowringhee-lane-new-palasia,"Upper Ground, One Centre Survey, Palasiahana, Opposite 56, New Palasia, Indore",34 Chowringhee Lane,22.687741,75.874555,"Rolls,Soya Chaap Roll,Paneer Tikka Roll,Momos,Chicken Roll"
+55,https://www.zomato.com/indore/the-urban-gumti-2-vijay-nagar,"312, Krishna Bagh Colony, Indore, Madhya Pradesh, Vijay Nagar, Indore",The Urban Gumti,22.75943,75.88601,"Burgers,Pizza,Maggi,Salad,Pasta,Tea,Chai"
+56,https://www.zomato.com/indore/sweet-truth-old-palasia,"UG 8, Amar Darshan Building, Saket Square, Kharjana Main Road, Old Palasia, Indore",Sweet Truth,40.71973,-111.83444,
+57,https://www.zomato.com/indore/kitchen-craft-vijay-nagar,"203 DH, Scheme 74C, Behind Apollo Hospital, Vijay Nagar, Indore",Kitchen Craft,0,0,
+58,https://www.zomato.com/indore/firangi-bake-old-palasia,"8, Amar Darshan Building, Saket Square, Old Palasia, Indore",Firangi Bake,40.71973,-111.83444,Lasagne
+59,https://www.zomato.com/indore/cream-stone-new-palasia,"4 NM, Tower 1, New Palasia, Indore",Cream Stone,40.71973,-111.83444,"Waffles,Hot Chocolate Fudge,Nutella Brownie,Thick Shakes"
+60,https://www.zomato.com/indore/dr-d-khajrana,Delivery Only,Dr. D,43.6347,-73.85111,"Sandwich,Thick Cold Coffee"
+61,https://www.zomato.com/indore/forever-bhukkad-com-2-hig-lig,"1534/20, Nanda Nagar, HIG-LIG, Indore",Forever Bhukkad.com,22.74862,75.87452,
+62,https://www.zomato.com/indore/goldy-di-hatti-vijay-nagar,"BCM Heights, LG-5, Vijay Nagar, Indore",Goldy Di Hatti,22.76039,75.88642,"Butter Chicken,Fish Tikka,Hyderabadi Biryani,Amritsari Paneer Tikka,Chicken Dum Biryani,Chicken Tikka,Raita"
+63,https://www.zomato.com/indore/a1-rotiwala-hig-lig,"E /82 B, Near Shefali Jain Hospital, LIG Colony, HIG- LIG, Indore",A1 Rotiwala,22.73357,75.89018,
+64,https://www.zomato.com/indore/the-good-bowl-vijay-nagar,"Shop 24, Mangle City Mall, Sch 54, A B Road, Vijay Nagar, Indore",The Good Bowl,40.71973,-111.83444,
+65,https://www.zomato.com/indore/foc-24-new-palasia,"23/2 C, New Palasia, Indore",FOC 24,40.71973,-111.83444,
+66,https://www.zomato.com/indore/crayons-cafe-old-palasia,"Shop 146 & 147, Upper Ground 6, Near Tempo Stand, Tilak Nagar, Old Palasia, Indore",Crayons Cafe,50.905888,-4.521695,"Oreo Shake,Pasta"
+67,https://www.zomato.com/indore/the-belgian-waffle-co-old-palasia,"22, Ground Floor, Anand Bazar, Opposite Lions Gym, Khajrana, Indore",The Belgian Waffle Co.,22.717519,75.87934,"Nutella Waffle,Triple Chocolate,Belgian Chocolate Waffle,Belgian Waffles"
+68,https://www.zomato.com/indore/sat-guru-kripa-khajrana,"Swran Bagh Colony, Ring Road, Near Khajrana, Indore",Sat Guru Kripa,22.74872,75.84634,
+69,https://www.zomato.com/indore/shri-gurukripa-restorent-hig-lig,"7-8, Subhash Nagar Square, Pardeshipura , Indore",Shri Gurukripa Restorent,22.76745,75.89662,Thali
+70,https://www.zomato.com/indore/koffee-king-press-complex,"Shopping Complex, A.B. Road, Press Complex, Indore",Koffee King,23.23707,77.43307,
+71,https://www.zomato.com/indore/spicy-tadka-vijay-nagar,"LG 14, Royal Platinum Building, Opposite Prestige College, Vijay Nagar, Indore",Spicy Tadka,-49.20289,-73.06957,
+72,https://www.zomato.com/indore/noors-kitchen-vijay-nagar,"Shop 16, Shekhar Planet, Near Reliance Fresh, Vijay Nagar, Indore",Noor's Kitchen,10.999153,106.656863,"Mutton Biryani,Chicken Tikka Biryani,Butter Chicken,Chicken Roll,Dal Makhani,Naan,Rolls"
+73,https://www.zomato.com/indore/pakka-south-vijay-nagar,"165/A, Tulsi Nagar, Vijay Nagar, Indore",Pakka South,22.75943,75.88601,
+74,https://www.zomato.com/indore/oiya-new-palasia,"DM Tower, 56 Dukan, Near Janjeerwala Square, New Palasia, Indore",Oiya,22.705243,75.864121,"Burgers,Maggi,Cold Coffee,Peri Peri Fries,Sandwich,Hot Chocolate,Kullad Chai"
+75,https://www.zomato.com/indore/food-monk-vijay-nagar,"Shop 3, GG 25, Scheme 54, Vijay Nagar, Indore",Food Monk,22.76838,75.8925,
+76,https://www.zomato.com/indore/picasso-2-yn-road,"18/2, Yashwant Niwas Road, Indore",Picasso,22.72307,75.87415,
+77,https://www.zomato.com/indore/tummy-fillers-by-pass-road-north,"83A, Vaibhav Nagar, Kanadia Road, Near Ram Mandir, By Pass Road (North), Indore",Tummy Filler's,12.98458,77.55502,
+78,https://www.zomato.com/indore/foobae-old-palasia,"74, Patrakar Colony, Saket, Old Palasia, Indore",Foobae,22.72544,75.89487,"Waffles,Nachos,Wedges,Burgers,Iced Tea,French Fries,Bubble Waffle"
+79,https://www.zomato.com/indore/good-luck-restaurant-bar-yn-road,"Malwa Mill Square, YN Road, Indore",Good Luck Restaurant & Bar,39.42707,-77.37009,
+80,https://www.zomato.com/indore/dairy-don-vijay-nagar,"G1, Scheme 54, Ground Floor, Giriraj Grand 64-65, Near Satya Sai School, Vijay Nagar, Indore",Dairy Don,19.106946,72.921762,"Sandwich,Waffles,Thick Shakes"
+81,https://www.zomato.com/indore/punjabi-delight-vijay-nagar,"533, Sector C, Scheme 136, Near Kabit Kheri, Vijay Nagar, Indore",Punjabi Delight,22.599299,88.414568,
+82,https://www.zomato.com/indore/udta-punjab-vijay-nagar,Delivery Only,Udta Punjab,43.634701,-73.851112,
+83,https://www.zomato.com/indore/the-second-wife-hig-lig,"4/1, Radhika Kunj, LIG Link Road, HIG-LIG, Indore",The Second Wife,22.73954,75.88105,
+84,https://www.zomato.com/indore/mustang-hotel-somdeep-palace-vijay-nagar,"Hotel Somdeep Palace, MR 10, Vijay Nagar, Indore",Mustang - Hotel Somdeep Palace,22.759979,75.886299,"Mocktails,Cocktails,Wine,Tikka"
+85,https://www.zomato.com/indore/mcdonalds-2-vijay-nagar,"Ground Floor, Mangal City Mall, AB Road, Vijay Nagar, Indore",McDonald's,22.76673,75.90041,"Burgers,Fries,Aloo Tikki,Coke Float,Coffee"
+86,https://www.zomato.com/indore/new-students-mess-hig-lig,"C-16, HIG Colony, Behind City Heart Restaurant, HIG-LIG, Indore",New Students Mess,0,12,
+87,https://www.zomato.com/indore/koc-vijay-nagar,"378/A, Mahalaxmi Nagar, Vijay Nagar, Indore",KOC,0,12,
+88,https://www.zomato.com/indore/combo-junction-new-palasia,"Lower Ground 5, Vidhyapati, Race Course Road, New Palasia, Indore",Combo Junction,0,12,
+86,https://www.zomato.com/indore/new-students-mess-hig-lig,"C-16, HIG Colony, Behind City Heart Restaurant, HIG-LIG, Indore",New Students Mess,0,0,"Sandwich,Cone Pizza,Maggi,Fries,Blueberry Smoothie,Baked Nacho,Kit Kat Shake"
+87,https://www.zomato.com/indore/koc-vijay-nagar,"378/A, Mahalaxmi Nagar, Vijay Nagar, Indore",KOC,22.75943,75.88601,
+88,https://www.zomato.com/indore/combo-junction-new-palasia,"Lower Ground 5, Vidhyapati, Race Course Road, New Palasia, Indore",Combo Junction,10.36315,77.987183,"Pizza Dosa,Peri Peri Sizzler,Momos,Corn Dosa,Pasta,Jini Dosa,Chinese Sizzlers"
+89,https://www.zomato.com/indore/cafe-kono-new-palasia,"1/6, Upper Ground, Western Business Center, New Palasia, Indore",Cafe Kono,42.33982,-83.12364,
+90,https://www.zomato.com/indore/cafe-pubg-vijay-nagar,"GF 37, Near Krishna Dudh Dairy, Vijay Nagar, Indore",Cafe PUBG,22.752373,75.891541,Dj
+91,https://www.zomato.com/indore/sigdi-sizzler-south-indian-vijay-nagar,"65, Scheme 78, Part 2, Vijay Nagar, Indore",Sigdi - Sizzler & South Indian,22.76063,75.88648,"Mocktails,Nachos,Pasta,Sangria,Shawarma,Coffee,Pita Bread"
+92,https://www.zomato.com/indore/shree-goyal-juice-center-new-palasia,"594, MG Road, New Palasia, Indore",Shree Goyal Juice Center,22.71916,75.85195,
+93,https://www.zomato.com/indore/the-cliff-restaurant-bar-vijay-nagar,"Plot 57, PU-4, Behind C 21 Mall, Vijay Nagar, Indore",The Cliff Restaurant & Bar,22.752373,75.891541,
+94,https://www.zomato.com/indore/mama-loca-new-palasia,"G-1, 6/3, Princess Centre, New Palasia, Indore",Mama Loca,40.71973,-111.83444,"Stuffed Garlic Bread,Margherita Pizza"
+95,https://www.zomato.com/indore/egglicious-khajrana,"203 D, Swan Bag Colony, Near Red Mapple Bakery, Indore, HIG-LIG, Indore",Egglicious,0,0,
+96,https://www.zomato.com/indore/naan-stop-curry-vijay-nagar,"Plot 17, 4th Floor, P.U. 4 Commercial, Scheme 54, Vijay Nagar, Indore",Naan Stop Curry,28.5929,77.067475,
+97,https://www.zomato.com/indore/pizzato-press-complex,"2 & 3, Ayodhyapuri Colony, Near Laurels School, Near Press Complex, Indore",Pizzato,40.71973,-111.83444,
+98,https://www.zomato.com/indore/pfj-punjabi-food-junction-old-palasia,"LG-1, Amardarshan, Saket Square, Old Palasia, Indore",PFJ - Punjabi Food Junction,53.707035,-78.565594,
+99,https://www.zomato.com/indore/parag-mishthaan-3-sarafa-bazaar,"10, Bada Sarafa, Sarafa Bazaar, Indore",Parag Mishthaan,22.71781,75.85112,
+100,https://www.zomato.com/indore/apna-kitchen-hig-lig,"E/82-B, LIG Colony, Near Shefali Jain Hospital, HIG-LIG, Indore",Apna Kitchen,22.73666,75.88564,"Burgers,Pizza Fries,Brownie,Peri Peri Fries,Hot Chocolate,Cold Coffee,Red Velvet Shake"
+101,https://www.zomato.com/indore/the-kings-cafe-geeta-bhavan,"43, Geeta Bhavan, Lalaram Nagar, Geeta Bhavan, Indore",The King's Cafe,22.71885,75.88808,
+102,https://www.zomato.com/indore/guru-restaurant-hig-lig,"16, Pardesipura, Block 33, HIG-LIG, Indore",Guru Restaurant,22.74393,75.87102,
+103,https://www.zomato.com/indore/udan-khatola-vijay-nagar,"37, Scheme 54, Opposite SICA School, Vijay Nagar, Indore",Udan Khatola,22.7573,75.88547,
+104,https://www.zomato.com/indore/ice-balls-slice-square-1-new-palasia,"56, Chappan Market, New Palasia, Indore",Ice Balls & Slice Square,41.38212,-73.88814,
+105,https://www.zomato.com/indore/the-london-shakes-cafe-old-palasia,"Shop 3, Anand Bazar, Main Road, Old Palasia, Indore",The London Shakes & Cafe,22.72976,75.8977,
+106,https://www.zomato.com/indore/club-19-cafe-by-pass-road-north,"PSP 2, Near Hans Travels, Scheme 94, Ring Road, By Pass Road (North), Indore",Club 19 Cafe,0,0,"Biryani,Butter Chicken"
+107,https://www.zomato.com/indore/just-and-china-hig-lig,Nanda Nagar Indore,Just And China,22.74443,75.87925,
+108,https://www.zomato.com/indore/pinchus-bakewell-vijay-nagar,"E.B-247, Scheme 94, Opposite Bombay Hospital, Vijay Nagar, Indore",Pinchu's Bakewell,22.76673,75.90041,
+109,https://www.zomato.com/indore/moms-courtyard-vijay-nagar,"165/A, Tulsi Nagar, Vijay Nagar, Indore",Mom's Courtyard,22.75943,75.886009,
+110,https://www.zomato.com/indore/surbhi-restaurant-old-palasia,"22, Vaikunt Dham, Khajrana Main Road, Anand Bazaar, Old Palasia, Indore",Surbhi Restaurant,22.72976,75.8977,
+111,https://www.zomato.com/indore/addys-baithak-old-palasia,"L.G. 1 Sanskriti Apartment, Swami Vivekanand Nagar, Kanadia Road, Old Palasia",Addy's Baithak,12.99404,77.66203,
+112,https://www.zomato.com/indore/kitchen-inc-vijay-nagar,"Plot 17, 4th Floor, P.U. 4 Commercial, Scheme 54, Vijay Nagar, Indore",Kitchen INC,28.592899,77.067474,
+113,https://www.zomato.com/indore/shree-krishna-cakes-hig-lig,"29, Patni Pura square, HIG-LIG, Indore",Shree Krishna Cakes,22.73953,75.88075,
+114,https://www.zomato.com/indore/cake-makers-old-palasia,"43, Gulmarg Colony, Near Saket Nagar, Old Palasia, Indore",Cake Makers,17.48135,78.47321,Panneer Butter Masala
+115,https://www.zomato.com/indore/the-juicebox-and-co-vijay-nagar,"GG 25, Scheme 54, Vijay Nagar, Indore",The JuiceBox And Co.,22.76838,75.8925,"Fries,Hot Chocolate,Thick Shakes,Burgers,Cheese Sandwich"
+116,https://www.zomato.com/indore/bismillah-restaurant-geeta-bhavan,"764, Azad Nagar, Geeta Bhavan, Indore",Bismillah Restaurant,22.71857,75.89189,
+117,https://www.zomato.com/indore/om-sae-ram-restaurant-vijay-nagar,"Shop 03, Niranjanpur Chouraha, Behind Hanuman Mandir, Dewas Naka, Vijay Nagar, Indore",Om Sae Ram Restaurant,0,0,Egg Thali
+118,https://www.zomato.com/indore/drunken-monkey-vijay-nagar,"Plot 192, Scheme 54, PU 4, Behind Malhar Mega Mall, AB Road, Vijay Nagar, Indore",Drunken Monkey,37.172479,-3.66072,Dal Tadka
+119,https://www.zomato.com/indore/daluz-cafe-vijay-nagar,"Shop 1, Plot 6, Ground Floor, PU 4, Scheme 54, Vijay Nagar, Indore",Daluz Cafe,22.752373,75.891541,
+120,https://www.zomato.com/indore/mr-eggzotic-old-palasia,"11, Anand Bazar, Ravi Nagar, Old Palasia, Indore",Mr. Eggzotic,22.6946,75.89085,"Mutton Paya Soup,Chicken Burger,Chicken Biryani,Chicken Biryaani,Butter Chicken,Chicken Lollipop,Kheer"
+121,https://www.zomato.com/indore/raja-ram-dhaba-sweets-namkeen-vijay-nagar,"312/2, Near Dimond Petrol Pump, Dewas Naka, Vijay Nagar, Indore","Raja Ram - Dhaba, Sweets & Namkeen",22.752373,75.891541,
+122,https://www.zomato.com/indore/kings-xi-restaurant-vijay-nagar,"R 396, Mahalaxmi Nagar, Nariman Point Road, Vijay Nagar, Indore",Kings XI Restaurant,19.06812,72.84896,
+123,https://www.zomato.com/indore/biryanotech-cafe-khajrana,"Shop 2, Nahar Shah Road, Bengali Colony, Khajrana, Indore",Biryanotech Cafe,17.3581,78.5186,
+124,https://www.zomato.com/indore/hotel-ten-eleven-vijay-nagar,"137 & 138, Scheme 78, Part 02, Vijay Nagar, Indore",Hotel Ten Eleven,22.76876,75.89075,
+125,https://www.zomato.com/indore/auntys-rasoi-ranjeet-hanuman,"238, Usha Nagar Extension, Opposite Ranjeet Hanuman Parking Gate, Ranjeet Hanuman, Indore",Auntys Rasoi,22.70098,75.83778,
+126,https://www.zomato.com/indore/taberna-online-kitchen-vijay-nagar,"Scheme 94C, 18A, 1st Floor, Velocity Multiplex, Ring Road, Vijay Nagar, Indore",Taberna Online Kitchen,0,0,"Dal Makhani,Chicken Biryani,Lassi,Butter Chicken,Paneer Tikka Masala,Dahi Ke Kabab,Malai Kofta"
+127,https://www.zomato.com/indore/book-my-roti-vijay-nagar,"Shop 02, Scheme 54, Near Soft Vision College, Vijay Nagar, Indore",Book My Roti,22.737567,75.88524,"Stuffed Garlic Bread,Cheese Burst Pizza"
+128,https://www.zomato.com/indore/cool-uncle-ice-cream-lounge-cafe-vijay-nagar,"G1, Ankur Place, Scheme 54, Vijay Nagar, Indore",Cool Uncle Ice Cream Lounge & Cafe,22.76838,75.8925,"Egg Curry,Tandoori Roti,Chicken Sukha,Chilli Paneer"
+129,https://www.zomato.com/indore/pind-balluchi-vijay-nagar,"RH 13, Sector A, Scheme 54, Vijay Nagar, Indore",Pind Balluchi,12.32113,76.6038,
+130,https://www.zomato.com/indore/dominos-pizza-vijay-nagar,"32, Ground Floor, Prime House, Meghdoot Road, Sayaji Circle, Vijay Nagar, Indore",Domino's Pizza,0,0,
+131,https://www.zomato.com/indore/linkbite-vijay-nagar,"203 DH, Scheme 74 C, Behind Apollo Hospital, Vijay Nagar, Indore",Linkbite,0,0,
+132,https://www.zomato.com/indore/mughals-vijay-nagar,"RH 110, Slice 1, Scheme 78, Behind Medicure Medical, Vijay Nagar, Indore",Mughal's,22.557978,75.767267,"Butter Chicken,Mutton Bhuna,Keema Kaleji,Mutton Curry"
+133,https://www.zomato.com/indore/prakash-dhaba-vijay-nagar,"66-67, Niranjanpur, A.B. Road, Dewas Naka, Vijay Nagar, Indore",Prakash Dhaba,22.76673,75.90041,"Pasta,Paneer Tikka,Pizza,Nachos,Cold Coffee,Brownie Frappe,Cheese Balls"
+134,https://www.zomato.com/indore/grub-shop-south-tukoganj,"4th Floor, Shivam Complex, South Tukoganj, Indore",Grub Shop,22.71973,75.87602,
+135,https://www.zomato.com/indore/kukdu-kuu-club-vijay-nagar,"Upper Ground-7A, BCM Heights, Vijay Nagar, Indore",Kukdu Kuu Club,22.76024,75.88638,
+136,https://www.zomato.com/indore/the-eyry-2-new-palasia,"Ground Floor Narayan Kothi, Zanzeerwala Square 18, R S Bhandari Marg, New Palasia, Indore",The Eyry,22.705243,75.864121,
+137,https://www.zomato.com/indore/appu-restaurant-1-vijay-nagar,"Ganga Devi Nagar, Vijay Nagar, Indore",APPU Restaurant,22.75943,75.88601,
+138,https://www.zomato.com/indore/foodles-old-palasia,"G-3, Regal Tower 45, Baikunthdham Colony, Anand Bazar Road, Old Palasia, Indore",Foodles,40.71973,-111.83444,
+139,https://www.zomato.com/indore/cafe-yolo-old-palasia,"LG 6-7-8 Navneet Plaza, Palasia, Indore",Cafe Yolo,40.67948,-111.94806,
+140,https://www.zomato.com/indore/red-chilli-restaurant-mr-10-road,"111, Shyam Nagar, Infront Of Mount Caramel School, Sukhliya, MR 10 Road, Indore",Red Chilli Restaurant,40.71973,-111.83444,Prompt Service
+141,https://www.zomato.com/indore/night-food-stand-new-palasia,"56 Dukan, New Palasia, Indore",Night Food Stand,22.72546,75.88328,
+142,https://www.zomato.com/indore/waff-up-by-foobae-khajrana,"Patrakar Colony, Saket, Khajrana, Indore",Waff Up! by Foobae,22.72544,75.89487,
+143,https://www.zomato.com/indore/the-cooks-door-vijay-nagar,"Plot 136, Scheme 78, Part 2, Near Ana Convent School, Vijay Nagar, Indore",The Cooks Door,22.705243,75.864121,
+144,https://www.zomato.com/indore/bamboo-tree-the-boutique-restaurant-vijay-nagar,"165/A, Tulsi Nagar, Vijay Nagar, Indore",Bamboo Tree The Boutique Restaurant,0,12,
+145,https://www.zomato.com/indore/anytime-khanewala-khajrana,"57, Ground Floor, Swarnbagh Colony, Khajrana, Indore",Anytime Khanewala,0,12,
